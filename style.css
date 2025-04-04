@@ -1,0 +1,89 @@
+body{
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+}
+.half-width-one{
+    float: left;
+    padding-left: 250px;
+    padding-top: 200px;
+    width: 40%;
+    padding-bottom: 160px;
+}
+.half-width-two{
+    float: left;
+    width: 40%;
+    padding-top: 70px;
+}
+.half-width-two img{
+    width: 90%;
+}
+.half-width-three{
+    float: left;
+    padding: 100px 20px;
+}   
+.half-width-four{
+    float: left;
+    width: 45%;
+    padding: 250px 90px;
+}
+
+.half-width-three img{
+    width: 85%;
+}
+section{
+    padding-bottom: 400px;
+}
+
+.font-color{
+    color: rgb(246, 67, 67);
+    font-weight: 700;
+    font-size: 40px;
+}
+.first-text{
+    font-weight: 200;
+}
+.link{
+    text-decoration: none;
+    background-color:rgb(246, 67, 67) ;
+    border-radius: 3px;
+    color: white;
+    padding: 10px;
+}
+.work{
+    float: left;
+    width: 27%;
+    margin-left: 75px ;
+    padding: 4opx;
+    
+}
+.work-text{
+    font-weight: 600;
+    font-size: 30px;
+}
+.client-say{
+    text-align: center;
+    font-weight: 500;
+    font-size: 25px;
+}
+.bruce{
+    text-align: center;
+    font-weight: 500;
+}
+.ceo{
+    text-align: center;
+    font-weight: 200;
+    font-size:12px ;
+}
+.last-link{
+    text-align: center;
+    font-weight: 300;
+    font-size:15px ;
+    background-color:rgb(246, 67, 67) ;
+    border-radius: 3px;
+    color: white;
+    padding: 50px;
+}
+footer{
+    text-align: center;
+    position: bottom;
+}
